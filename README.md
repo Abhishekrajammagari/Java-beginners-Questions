@@ -1,1 +1,1 @@
-# Java-beginners-Questions
+# Python-beginners-Questions
